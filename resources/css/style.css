@@ -18,7 +18,11 @@ h1{
 }
 
 h2{
-  font-size: 32px;
+  font-size:32px;
+}
+
+h3{
+  font-size:23px;
 }
 
 p {
@@ -27,7 +31,6 @@ p {
 
 .header h3{
   color: white;
-  font-size: 23px;
 }
 
 .footer{
